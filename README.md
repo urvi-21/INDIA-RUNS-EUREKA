@@ -275,5 +275,7 @@ This shifts candidate evaluation from keyword matching to evidence-based recruit
 ---
 
 # Authors
+Urvi Patel
+Ayush Singh
 
 Developed for the **India Runs Eureka Hackathon**.
