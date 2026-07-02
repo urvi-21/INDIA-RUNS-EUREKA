@@ -1,5 +1,5 @@
 # 🚀 Recruiter Intelligence Engine
-### AI-Powered Candidate Ranking Beyond Keyword Matching
+
 https://eureka-indiaruns.streamlit.app/
 > **Hackathon Submission – India Runs Eureka**
 >
