@@ -11,10 +11,10 @@ primary_contact:
 team_members:
   - name: "Urvi Patel"
     email: "urviiipatel27@gmail.com"
-    role: "AI/ML Engineer"
+    role: "Team leader"
   - name: "Ayush Singh"
     email: "19ayush07singh2003@gmail.com"
-    role: "Software Engineer"
+    role: "Member"
 
 # ============================================================================
 # Code and reproducibility
