@@ -1,6 +1,6 @@
 # 🚀 Recruiter Intelligence Engine
-### AI-Powered Candidate Ranking Beyond Keyword Matching
 
+https://eureka-indiaruns.streamlit.app/
 > **Hackathon Submission – India Runs Eureka**
 >
 > An explainable recruiter intelligence system that ranks candidates based on demonstrated capabilities, career evidence, hiring readiness, and recruiter reasoning—not keyword matching.
@@ -275,5 +275,7 @@ This shifts candidate evaluation from keyword matching to evidence-based recruit
 ---
 
 # Authors
+Urvi Patel
+Ayush Singh
 
 Developed for the **India Runs Eureka Hackathon**.
